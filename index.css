@@ -1,0 +1,21 @@
+body
+{
+  background-color:#1f1f1f1f;
+  margin:0%;
+}
+.Nav
+{
+background-color: rgb(50, 40, 92);
+border:solid;
+margin: 0%;
+text-align: center;
+}
+.box
+{
+    background-color:#1f1f1f1f;
+    margin:10% 30% 15% 30%;
+    height:200px;
+    text-align: center;
+    box-shadow: 2px 5px 20px rgb(153, 153, 153),-2px -3px 12px rgb(182, 182, 182);
+  border-radius: 4px;
+  }
